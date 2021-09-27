@@ -1,7 +1,4 @@
-
-
 html{ scroll-behavior: smooth; }
-		
 *{ margin: 0; padding:0; box-sizing: border-box;font-family: 'Muli', sans-serif; }
 
 .row{ margin: 0!important; }
@@ -125,4 +122,3 @@ html{ scroll-behavior: smooth; }
     width: 100%;
     font-size: 30px; }
 }
-
